@@ -17,4 +17,4 @@ I love diving deep into JavaScript, solving tricky UI problems, and experimentin
 **Email:** resulselmani2002@gmail.com
 
 ## 🌟 Motto  
-**Build fast. Build clean. Build things people actual**
+**Build fast. Build clean. Build things people actually like**
